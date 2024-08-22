@@ -170,7 +170,7 @@ header {
   
   height: 14vh;
   width: 100vw;
-  background-image: url("Header-strap.png");
+  background-image: url("/public/Header-strap.png");
   background-size: cover;
 }
 
@@ -197,7 +197,7 @@ main {
   
   height: 80vh;
   width: 50vw;
-  background-image: url("right_main_image.png");
+  background-image: url("/public/right_main_image.png");
   background-size: cover;
 }
 
@@ -207,7 +207,7 @@ footer {
   border: 2px rgb(255, 251, 0) solid;
   height: 10vh;
   width: 100vw;
-  background-image: url("footer_image.png");
+  background-image: url("/public/footer_image.png");
   background-size: cover;
 }
 
