@@ -151,7 +151,7 @@ function PE_record(bottle: TresInstance | null) {
 
       </div>
       <div class="rightMain">
-        <div class="warningMessage"><h1>Display site only, non-clickable links</h1></div>
+        <!-- <div class="warningMessage"><h1>Display site only, non-clickable links</h1></div> -->
       </div>
     </main>
 
